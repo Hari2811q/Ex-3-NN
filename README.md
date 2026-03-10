@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME:Hariprasath.R</H3>
-<H3>ENTER YOUR REGISTER NO:212223040059</H3>
+## NAME : Hariprasath.R
+## REGISTER NO : 212223040059
 <H3>EX. NO.3</H3>
 <H3>DATE:01.03.2026</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
@@ -35,7 +35,7 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum<BR>
     (v)  Append the losses in a list <BR>
 Step 4 : Test for the XOR patterns.
 
-<H3>Program:</H3>
+### Program:
 ```
 import numpy as np
 import pandas as pd
@@ -118,9 +118,9 @@ predict(w1, w2, test)
 
 ```
 
-<H3>Output:</H3>
+### Output:
 
-<img width="645" height="534" alt="image" src="https://github.com/user-attachments/assets/086e9605-fecb-45c2-bf14-e6b3384f687b" />
+<img width="645" height="534" alt="image" src="https://github.com/user-attachments/assets/752c391b-5705-4501-bc80-d46350796b3f" />
 
 
 <H3> Result:</H3>
